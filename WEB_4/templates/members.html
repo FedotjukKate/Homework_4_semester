@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% for item in members %}
+        {% if item == members[num] %}
+            <h2 align="center">{{item["name"]}}</h2>
+            <p align="center"><a href="members.html"><img src={{item["photo"]}}></a></p>
+            <div align="center">{{ s }}</div>
+        {% endif %}
+    {% endfor %}
+{% endblock %}

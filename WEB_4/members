@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Энди Уир",
+      "photo": "static/img/Endy_Robot.jpg",
+      "specialization": ["экзобиолог" , "астрогеолог"]
+    },
+    {
+      "name": "Марк Уотни",
+      "photo": "static/img/Mark_Robot.jpg",
+      "specialization": ["пилот", "инженер-исследователь"]
+    },
+    {
+      "name": "Венера Капур",
+      "photo": "static/img/Venera_Robot.jpg",
+      "specialization": ["пилот дронов", "киберинженер", "оператор марсохода"]
+    },
+    {
+      "name": "Симон Скотт",
+      "photo": "static/img/Simon_Robot.jpg",
+      "specialization": ["инженер по терраформированию", "климатолог", "гляциолог"]
+    }
+]
